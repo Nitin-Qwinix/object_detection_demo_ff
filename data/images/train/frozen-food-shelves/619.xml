@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Image</folder>
+	<folder>cooler image</folder>
 	<filename>619.jpg</filename>
-	<path>C:\Users\Admin\Downloads\1-168-frozen-food\Image\619.jpg</path>
+	<path>C:\Users\qwinix\Downloads\frozen_food_coolers\frozen_food_coolers\cooler image\619.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>630</ymin>
-			<xmax>1732</xmax>
-			<ymax>1254</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>frozen-food-shelf</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>188</xmin>
-			<ymin>1254</ymin>
-			<xmax>1714</xmax>
-			<ymax>1860</ymax>
+			<xmin>185</xmin>
+			<ymin>433</ymin>
+			<xmax>1688</xmax>
+			<ymax>1224</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>coolers images</folder>
+	<filename>viking_2624.jpg</filename>
+	<path>C:\Users\qwinix\Downloads\frozen_food\coolers images\viking_2624.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frozen-food-shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>742</ymin>
+			<xmax>1928</xmax>
+			<ymax>1192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>frozen-food-shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>1157</ymin>
+			<xmax>1869</xmax>
+			<ymax>1586</ymax>
+		</bndbox>
+	</object>
+</annotation>
