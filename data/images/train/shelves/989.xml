@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cooler image</folder>
+	<folder>final_shelf</folder>
 	<filename>989.jpg</filename>
-	<path>C:\Users\qwinix\Downloads\frozen_food_coolers\frozen_food_coolers\cooler image\989.jpg</path>
+	<path>/Users/kratik/Pictures/final_shelf/989.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>423</xmin>
-			<ymin>824</ymin>
+			<xmin>418</xmin>
+			<ymin>848</ymin>
 			<xmax>1900</xmax>
 			<ymax>1277</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>385</ymin>
+			<xmax>1886</xmax>
+			<ymax>813</ymax>
 		</bndbox>
 	</object>
 </annotation>

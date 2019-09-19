@@ -35,4 +35,16 @@
 			<ymax>1407</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>169</ymin>
+			<xmax>1914</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
 </annotation>

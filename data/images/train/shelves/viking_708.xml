@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>final_shelf</folder>
 	<filename>viking_708.jpg</filename>
-	<path>C:\Users\nshan\Documents\icecream\images\viking_708.jpg</path>
+	<path>/Users/kratik/Pictures/final_shelf/viking_708.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>429</xmin>
 			<ymin>839</ymin>
-			<xmax>1876</xmax>
-			<ymax>1380</ymax>
+			<xmax>1846</xmax>
+			<ymax>1470</ymax>
 		</bndbox>
 	</object>
 </annotation>

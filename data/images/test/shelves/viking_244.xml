@@ -1,0 +1,38 @@
+<annotation>
+	<folder>coolers images</folder>
+	<filename>viking_244.jpg</filename>
+	<path>D:\coolers images\viking_244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>415</ymin>
+			<xmax>2097</xmax>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>955</ymin>
+			<xmax>2082</xmax>
+			<ymax>1555</ymax>
+		</bndbox>
+	</object>
+</annotation>

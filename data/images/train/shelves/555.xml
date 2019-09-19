@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cs-v04-000-1473</folder>
+	<folder>final_shelf</folder>
 	<filename>555.jpg</filename>
-	<path>C:\Users\nshan\Desktop\new ice cream\ice_cream_coolers\cs-v04-000-1473\555.jpg</path>
+	<path>/Users/kratik/Pictures/final_shelf/555.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>356</xmin>
+			<xmin>358</xmin>
 			<ymin>1083</ymin>
 			<xmax>1797</xmax>
-			<ymax>1383</ymax>
+			<ymax>1508</ymax>
 		</bndbox>
 	</object>
 </annotation>

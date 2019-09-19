@@ -1,7 +1,7 @@
 <annotation>
-	<folder>final_shelf</folder>
+	<folder>images</folder>
 	<filename>viking_1307.jpg</filename>
-	<path>/Users/kratik/Pictures/final_shelf/viking_1307.jpg</path>
+	<path>C:\Users\nshan\Documents\icecream\images\viking_1307.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>428</xmin>
-			<ymin>1233</ymin>
-			<xmax>1818</xmax>
-			<ymax>1665</ymax>
+			<xmin>456</xmin>
+			<ymin>424</ymin>
+			<xmax>1873</xmax>
+			<ymax>833</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>458</xmin>
-			<ymin>445</ymin>
-			<xmax>1856</xmax>
-			<ymax>825</ymax>
+			<xmin>459</xmin>
+			<ymin>72</ymin>
+			<xmax>1888</xmax>
+			<ymax>422</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>476</xmin>
-			<ymin>83</ymin>
-			<xmax>1841</xmax>
-			<ymax>470</ymax>
+			<xmin>447</xmin>
+			<ymin>1204</ymin>
+			<xmax>1838</xmax>
+			<ymax>1660</ymax>
 		</bndbox>
 	</object>
 </annotation>

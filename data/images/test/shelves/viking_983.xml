@@ -30,9 +30,33 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>438</xmin>
-			<ymin>957</ymin>
-			<xmax>1670</xmax>
-			<ymax>1424</ymax>
+			<ymin>963</ymin>
+			<xmax>1714</xmax>
+			<ymax>1445</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>54</ymin>
+			<xmax>1714</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>1439</ymin>
+			<xmax>1711</xmax>
+			<ymax>1939</ymax>
 		</bndbox>
 	</object>
 </annotation>

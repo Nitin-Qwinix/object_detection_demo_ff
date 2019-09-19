@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>376</xmin>
-			<ymin>316</ymin>
-			<xmax>1856</xmax>
+			<ymin>239</ymin>
+			<xmax>1850</xmax>
 			<ymax>845</ymax>
 		</bndbox>
 	</object>
@@ -33,6 +33,18 @@
 			<ymin>845</ymin>
 			<xmax>1853</xmax>
 			<ymax>1416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>1357</ymin>
+			<xmax>1832</xmax>
+			<ymax>1919</ymax>
 		</bndbox>
 	</object>
 </annotation>

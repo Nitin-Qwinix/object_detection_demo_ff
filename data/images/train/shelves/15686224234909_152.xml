@@ -1,7 +1,7 @@
 <annotation>
-	<folder>New Folder With Items</folder>
+	<folder>final_shelf</folder>
 	<filename>15686224234909_152.jpg</filename>
-	<path>/Users/venkatesh/Desktop/cs/New Folder With Items/15686224234909_152.jpg</path>
+	<path>/Users/kratik/Pictures/final_shelf/15686224234909_152.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>553</xmin>
-			<ymin>327</ymin>
-			<xmax>2107</xmax>
-			<ymax>533</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>shelf</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>535</xmin>
-			<ymin>294</ymin>
-			<xmax>2120</xmax>
-			<ymax>697</ymax>
+			<xmin>542</xmin>
+			<ymin>265</ymin>
+			<xmax>2136</xmax>
+			<ymax>727</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>526</xmin>
+			<xmin>541</xmin>
 			<ymin>1224</ymin>
 			<xmax>2138</xmax>
-			<ymax>1758</ymax>
+			<ymax>1713</ymax>
 		</bndbox>
 	</object>
 </annotation>
