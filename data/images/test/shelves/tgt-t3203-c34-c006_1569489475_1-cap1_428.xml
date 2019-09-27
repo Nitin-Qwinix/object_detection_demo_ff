@@ -1,0 +1,50 @@
+<annotation>
+	<folder>shelf images</folder>
+	<filename>tgt-t3203-c34-c006_1569489475_1-cap1_428.jpg</filename>
+	<path>C:\Users\nshan\Documents\shelf images\tgt-t3203-c34-c006_1569489475_1-cap1_428.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>295</ymin>
+			<xmax>1864</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>739</ymin>
+			<xmax>1856</xmax>
+			<ymax>1260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>1248</ymin>
+			<xmax>1835</xmax>
+			<ymax>1683</ymax>
+		</bndbox>
+	</object>
+</annotation>
