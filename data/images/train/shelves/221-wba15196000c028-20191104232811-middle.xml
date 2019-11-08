@@ -1,7 +1,7 @@
 <annotation>
-	<folder>wba-15196-000-c028</folder>
+	<folder>fff train</folder>
 	<filename>221-wba15196000c028-20191104232811-middle.jpg</filename>
-	<path>/Users/kratik/Desktop/wba-15196-000-c028/221-wba15196000c028-20191104232811-middle.jpg</path>
+	<path>C:\Users\Qwinix\Documents\Images to be tagged\fff train\221-wba15196000c028-20191104232811-middle.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>192</xmin>
-			<ymin>721</ymin>
-			<xmax>1135</xmax>
-			<ymax>1051</ymax>
+			<xmin>185</xmin>
+			<ymin>280</ymin>
+			<xmax>1163</xmax>
+			<ymax>764</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>177</xmin>
-			<ymin>1058</ymin>
-			<xmax>1138</xmax>
-			<ymax>1379</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>shelf</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>203</xmin>
-			<ymin>383</ymin>
-			<xmax>1115</xmax>
-			<ymax>732</ymax>
+			<xmin>188</xmin>
+			<ymin>758</ymin>
+			<xmax>1128</xmax>
+			<ymax>1158</ymax>
 		</bndbox>
 	</object>
 </annotation>

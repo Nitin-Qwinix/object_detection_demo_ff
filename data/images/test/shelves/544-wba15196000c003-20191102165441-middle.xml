@@ -1,7 +1,7 @@
 <annotation>
-	<folder>wba-15196-000-c003</folder>
+	<folder>fff test</folder>
 	<filename>544-wba15196000c003-20191102165441-middle.jpg</filename>
-	<path>C:\Users\ykuma\Documents\HAWK-15196\wba-15196-000-c003\544-wba15196000c003-20191102165441-middle.jpg</path>
+	<path>C:\Users\Qwinix\Documents\Images to be tagged\fff test\544-wba15196000c003-20191102165441-middle.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>1072</ymin>
 			<xmax>1847</xmax>
 			<ymax>1627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>10</ymin>
+			<xmax>1845</xmax>
+			<ymax>527</ymax>
 		</bndbox>
 	</object>
 </annotation>

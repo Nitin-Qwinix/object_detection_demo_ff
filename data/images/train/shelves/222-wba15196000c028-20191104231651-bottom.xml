@@ -1,7 +1,7 @@
 <annotation>
-	<folder>wba-15196-000-c028</folder>
+	<folder>fff train</folder>
 	<filename>222-wba15196000c028-20191104231651-bottom.jpg</filename>
-	<path>/Users/kratik/Desktop/wba-15196-000-c028/222-wba15196000c028-20191104231651-bottom.jpg</path>
+	<path>C:\Users\Qwinix\Documents\Images to be tagged\fff train\222-wba15196000c028-20191104231651-bottom.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>349</xmin>
-			<ymin>683</ymin>
-			<xmax>1805</xmax>
-			<ymax>1434</ymax>
+			<xmin>307</xmin>
+			<ymin>689</ymin>
+			<xmax>1903</xmax>
+			<ymax>1439</ymax>
 		</bndbox>
 	</object>
 </annotation>

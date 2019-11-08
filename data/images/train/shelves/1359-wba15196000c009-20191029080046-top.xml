@@ -1,7 +1,7 @@
 <annotation>
-	<folder>wba-15196-000-c009</folder>
+	<folder>fff train</folder>
 	<filename>1359-wba15196000c009-20191029080046-top.jpg</filename>
-	<path>C:\Users\ykuma\Documents\HAWK-15196\wba-15196-000-c009\1359-wba15196000c009-20191029080046-top.jpg</path>
+	<path>C:\Users\Qwinix\Documents\Images to be tagged\fff train\1359-wba15196000c009-20191029080046-top.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>532</xmin>
-			<ymin>389</ymin>
+			<xmin>547</xmin>
+			<ymin>224</ymin>
 			<xmax>1847</xmax>
 			<ymax>1157</ymax>
 		</bndbox>
